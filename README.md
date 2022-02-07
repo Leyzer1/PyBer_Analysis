@@ -28,3 +28,8 @@ This pie chart shows us that Uban city also has the largest number of drivers, t
 ![Pyber_fare_summary](https://user-images.githubusercontent.com/95899763/152737260-b6ed818d-3865-4e96-beb9-1ceb86206773.png)
 
 This line graph shows us the summary of total fare by city type throughout the early months of 2019. Urban city types have the higher fare followed by suburban, and lastly rural. In the later dates of February, we see a pike in fare  on all three city types. This could possibly be because people are traveling further or it could be a busier time of the year. 
+
+# Summary
+
+The data shows that larger city types have a larger amount of rides, therefore a larger total fare. The spikes in the summary line chart can help Pyber prepare the following year by getting more drivers during the busy time of the year which seems to be late February. 
+
